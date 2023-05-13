@@ -1,0 +1,17 @@
+Objectives:
+    - Get the current values of the watch
+    - Alert if the current BPM is higher than the average BPM for the last 5 minutes + threshold defined in config
+    - Keep track of the average BPM per 5 minutes + keep the highest/lowest value in the last 5 minutes
+    - Show trendings per hour / day / week / month
+    - Keep track of BPM per night
+    - Multiple users can track their content
+Site:
+    - Date format : DD/MM/YYYY HH:MM:SS
+    - Can export to an excel file the data of a period of time
+    - Can sort the data by date - bpm_avg - bpm_min - bpm_max
+    - Login system
+
+Desktop:
+    - Limit of notifications per minute : 2 
+
+    
